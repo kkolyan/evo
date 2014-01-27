@@ -1,0 +1,6 @@
+world is 2d space with cells and substances
+cell consumes some substance
+cell produces some substance
+cell is attracted to some substance
+cell is pushed off by some substance
+cell dies with substance release
